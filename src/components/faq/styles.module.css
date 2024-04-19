@@ -1,0 +1,42 @@
+.container {
+    max-width: 100%;
+}
+
+.title {
+    width: 100%;
+    padding: 20px 0px;
+    font-weight: bold;
+    color: #311236;
+    font-size: 18px;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+}
+
+.text {
+    padding-bottom: 30px;
+    line-height: 25px;
+    color: #7c6e7f;
+    font-size: 16px;
+    display: none;
+}
+
+.buttonToaggle {
+    background-color: transparent;
+    cursor: pointer;
+    border: 0px;
+}
+
+.breakLine {
+    height: 1px;
+    background-color: #f5e4fc;
+}
+
+@media screen and (max-width: 700px) {
+    .container {
+        width: auto;
+    }
+    .title {
+        width: 100%;
+    }
+}
