@@ -2,7 +2,7 @@
 
 .container {
     font-family: "Work Sans", sans-serif;
-    background-image: url('../../public/background-pattern-desktop.svg');
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/projects-cd0f3.appspot.com/o/background-pattern-desktop.svg?alt=media&token=990eceef-ace1-4b89-9f2c-8772cc8fcc47');
     padding-bottom: 70px;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -59,7 +59,7 @@
 
 @media screen and (max-width: 700px) {
     .container {
-        background-image: url('../../public/background-pattern-mobile.svg');
+        background-image: url('https://firebasestorage.googleapis.com/v0/b/projects-cd0f3.appspot.com/o/background-pattern-mobile.svg?alt=media&token=0924aa01-b42e-419f-9f4c-480356e5b91d');
         padding-top: 30%;
     }
 
